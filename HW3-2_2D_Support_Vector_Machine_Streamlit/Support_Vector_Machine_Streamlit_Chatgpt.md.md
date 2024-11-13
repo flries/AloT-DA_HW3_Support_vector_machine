@@ -13,7 +13,7 @@ Step 3:　　
 2. Use LinearSVC (a linear support vector classifier) to train a model aimed at finding a hyperplane that can separate the two classes.
 3. Obtain the model's coefficients (coef) and intercept (intercept) after training.
 ## Response:
-以下是使用 `numpy` 和 `matplotlib` 實現該任務的程式碼：
+以下是使用 `numpy` 和 `matplotlib` 實現該任務的程式碼：　
 
 ```python
 import numpy as np
