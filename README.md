@@ -5,4 +5,3 @@
 
 ## HW3-2: 2D SVM with streamlit deployment (3D plot) - Circle
 ## HW3-3: 2D SVM with streamlit deployment (3D plot) - Oval
-#### ChatGPT Prompt URL: 
